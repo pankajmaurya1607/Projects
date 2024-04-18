@@ -1,2 +1,2 @@
 # Projects
-I developed these projects using Html, CSS and JavaScript.
+using Html, CSS and JavaScript.
